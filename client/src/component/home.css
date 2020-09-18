@@ -1,0 +1,251 @@
+.dashboard {
+  margin-left:0px;
+}
+.bg {
+  opacity: 0.5;
+}
+.dashboarddiv {
+  margin: 0px;
+}
+.imgdashboard {
+  width: 400px;
+  height: 400px;
+  margin-left: 200px;
+}
+/* .v-wrapper-blue {
+  width: 100%;
+  max-width: 1890px;
+  height: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 5%;
+  padding-bottom: 60px;
+  background-color: #ebf7ff;
+} */
+
+.v-wrapper-blue {
+  width: 100%;
+  max-width: 1890px;
+  height: 540px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 5%;
+  padding-bottom: 60px;
+   background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-image: url("https://cdni.rbth.com/rbthmedia/images/2018.10/original/5bc920f985600a58bc5f370e.jpg");
+
+}
+.slide-3 {
+  width: 100%;
+  max-width: 1890px;
+  height: 370px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 5%;
+  padding-bottom: 60px;
+  background-color: #ebf7ff;
+  /* background-repeat: no-repeat;
+  opacity: 1;
+  background-size: cover;
+  background-blend-mode: lighten;
+  background-attachment: fixed;
+  background-position: center;
+  background-image: url("https://sfmagazine.com/wp-content/uploads/2018/03/04_2018_smallbusiness.jpg"); */
+}
+
+/* .img{
+  margin-left: 570px;
+  margin-top:5px; 
+
+} */
+.dashimg{
+  width:700px;
+  height:700px; 
+  /* margin-left: 650px; */
+  /* margin-right:0px;  */
+  /* margin: "25px 20px 75px 400px"; */
+
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 1px;
+  margin-left: 1px;
+}
+.v-main-btn.v-intro-2-btn {
+  background-color: #021c4f;
+  color: #fff;
+}
+.w-button {
+  display: inline-block;
+  padding: 9px 15px;
+  /* background-color: #021c4f; */
+  background-color: #D8A800;
+  color: white;
+  border: 0;
+  line-height: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 0;
+}
+.v-main-btn {
+  display: flex;
+  width: 175px;
+  height: 56px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  padding-top: 10px;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 6px;
+  font-family: 'Avenir Next', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  margin-left: 60px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* font style define */
+.v-body {
+  font-family: 'Avenir Next', sans-serif;
+  color: #000;
+}
+.v-heading3{
+    margin-bottom: 30px;
+    color: #565656;
+    font-size: 22px;
+    line-height: 10px;
+    font-weight: 600;
+    text-align: center;
+}
+.v-heading1 {
+  font-family: 'Avenir Next', sans-serif;
+  color: #000;
+  padding-left: 5%;   
+  font-size: 28px;
+  line-height: 39px;
+  font-weight: 600;
+  margin-top:40px; 
+}
+.v-intro-subheader {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 500;
+}
+.v-heading5 {
+  margin-bottom: 6px;
+  /* text-align: center; */
+  color: #000;
+  font-size: 17px;
+  line-height: 18px;
+  font-weight: 600;
+}
+.v-p.v-p-benefits {
+  max-width: 220px;
+  font-size: 14px;
+}
+.v-p.v-p-steps {
+  max-width: 260px;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+
+.v-section-full {
+    
+  display: flex;
+  overflow: hidden;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  -webkit-box-align: center;
+  align-items: center;
+  /* text-align: center; */
+}
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+}
+.v-div-map-left {
+  display: inline-block;
+  width: 36%;
+  margin-left: -9%;
+}
+.v-div-map-text {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 45%;
+  padding-right: 45px;
+  padding-left: 45px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+}
+.v-map-list {
+
+  display: flex;
+  margin-bottom: 24px;
+  margin-left: 200px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.v-heading2 {
+  margin-bottom: 30px;
+  color: #000;
+  font-size: 25px;
+  line-height: 34px;
+  text-align: center;
+}
+.v-subheader.text-grey {
+  margin-top: -18px;
+  margin-bottom: 35px;
+  color: #bbb;
+  text-align: center;
+}
+.v-subheader {
+  margin-bottom: 20px;
+  font-family: 'Avenir Next', sans-serif;
+  color: #000;
+  font-size: 17px;
+  line-height: 26px;
+  font-weight: 500;
+}
+.v-img-map-list {
+  max-height: 14px;
+  margin-right: 10px;
+}
+.v-p {
+  margin-bottom: 0px;
+  margin-top: 4px;
+  font-size: 14px;
+  line-height: 18px;
+}
+.v-div-map-right {
+  display: inline-block;
+  width: 58%;
+  margin-top: 0px;
+  margin-right: -30%;
+}
+
+
