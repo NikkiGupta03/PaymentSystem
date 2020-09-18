@@ -23,7 +23,7 @@ class Card extends Component {
     //             getCVCProps
     //              } = usePaymentInputs();
 
-    publishableKey = "pk_test_51H6ydBAqSo8N61PY20d2ThgiKuEdBi0B7lY07N9mxzfw7A3MRT04azHQv7Es9mq1rPCriVXZIMU4sHd5klstf3BN00Fr0PNniY";
+    publishableKey = "enter your stripe publishableKey ";
 
     onToken = token => {
         console.log("nikki token", token)
